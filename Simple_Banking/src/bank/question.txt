@@ -1,0 +1,14 @@
+
+
+You need to design a simple banking system where customers can open accounts, deposit money, and withdraw money.
+Each customer has a name and a unique account number.
+Each account tracks the balance and the customer associated with it.
+
+Requirements :
+	Customer Class:
+		Attributes: name, account number.
+		Methods: getAccountNumber, getName .
+
+	Account Class:
+		Attributes: account number, balance, customer.
+		Methods: deposit, withdraw, getBalance, getCustomer.
