@@ -1,0 +1,17 @@
+You are a software developer working on a customer management system for a retail company.
+
+The company wants to maintain a list of customers and perform various operations on this list.
+
+Each customer has a unique ID, name, and email. The company needs to perform the following operations:
+
+1. Add a Customer: Add a new customer to the list.
+
+2. Remove a Customer: Remove a customer from the list using their ID.
+
+3. Search for a Customer: Search for a customer by their ID and return their details.
+
+4. List All Customers: Display all customers in the list.
+
+5. Sort Customers by Name: Sort the customers alphabetically by their name.
+
+6. Sort Customers by ID: Sort the customers numerically by their ID
